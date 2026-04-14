@@ -40,7 +40,7 @@ Sou desenvolvedor front-end em constante evolução, focado em criar interfaces 
 
 ## 📫 Contato
 
-- LinkedIn: (Link)[https://www.linkedin.com/in/mikael-torres/]
+- LinkedIn: [https://www.linkedin.com/in/mikael-torres/]
 - Email: [Mikaelt76@gmail.com]
 
 ---
