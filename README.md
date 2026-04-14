@@ -6,10 +6,13 @@ Meu portfólio pessoal desenvolvido com o objetivo de apresentar meus projetos, 
 
 ## 🚀 Tecnologias utilizadas
 
+- Html
+- Css
+- JavaScript (ES6+)
 - React
 - Vite
 - Tailwind CSS
-- JavaScript (ES6+)
+
 
 ---
 
